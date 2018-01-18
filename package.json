@@ -1,6 +1,6 @@
 {
   "name": "@ge-ge/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "常用js函数集合",
   "main": "./dist/index.js",
   "scripts": {
