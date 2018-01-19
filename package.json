@@ -2,6 +2,7 @@
   "name": "@ge-ge/utils",
   "version": "1.0.1",
   "description": "常用js函数集合",
+  "typings": "types/index.d.ts",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
