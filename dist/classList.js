@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var ClassList = /** @class */ (function () {
     function ClassList(ele) {
         this.ele = ele;
@@ -39,4 +41,4 @@ var ClassList = /** @class */ (function () {
     };
     return ClassList;
 }());
-export default ClassList;
+exports["default"] = ClassList;

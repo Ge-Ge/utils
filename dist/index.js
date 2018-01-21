@@ -1,2 +1,4 @@
-import classList from './classList';
-export { classList };
+"use strict";
+exports.__esModule = true;
+var classList_1 = require("./classList");
+exports.classList = classList_1["default"];
