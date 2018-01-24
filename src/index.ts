@@ -1,2 +1,2 @@
-import classList from './classList'
-export  { classList }
+import ClassList from './classList'
+export  { ClassList }
